@@ -1,0 +1,4 @@
+pure-python-adb
+adb-shell
+mysql-connector-python
+requests
